@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }} </h1>
+    <h1>greeting</h1>
     
   <ul><li><a href="https://vuejs.org/guide/introduction.html">vue website</a></li>
   <li><a href="https://vuejs.org/guide/introduction.html">vue website</a></li></ul>
